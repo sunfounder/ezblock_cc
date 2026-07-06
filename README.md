@@ -23,12 +23,6 @@
 4. 测试显示404需要把apk先上传
 5. 上传完成通知测试
 
-## ezblock.cc 服务器
-
-地址：47.251.17.137
-用户名：root
-密码：ezblock_20230417
-
 ## 课程文档界面修改
 
 在 `ezblock.cc/readDocFile` 中，`custom_bak.js` 和 `custom_bak.css` 是页面的备份文件
